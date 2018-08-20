@@ -1,0 +1,10 @@
+name: ultimateDuels
+version: 1.0
+author: streafe
+main: me.streafe.ultimateduels.UltimateDuels
+description: Ultimate Duels Plugin
+
+commands:
+  duel:
+    usage: /<command>
+    default: true
